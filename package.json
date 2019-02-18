@@ -2,7 +2,7 @@
 	"name": "ra-candy",
 	"displayName": "Ra Candy",
 	"description": "Ra Candy theme for VSCode",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": {
 		"vscode": "^1.31.0"
 	},
@@ -29,7 +29,7 @@
 	},
 	"icon": "images/ra.png",
 	"galleryBanner": {
-		"color": "#222222",
+		"color": "#F9F9F9",
 		"theme": "light"
 	},
 	"keywords": [
